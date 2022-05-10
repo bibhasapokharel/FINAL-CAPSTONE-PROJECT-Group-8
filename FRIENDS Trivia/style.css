@@ -7,7 +7,8 @@
 :root{
     background-image:url("Images/FRIENDSBG.jpeg");
     background-repeat:no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
 *{
@@ -19,7 +20,7 @@
 }
 
 h1{
-    font-size: 6rem;
+    font-size: 5.4rem;
     color:black;
     margin-bottom: 5rem;
     font-family:'Rock 3D';
