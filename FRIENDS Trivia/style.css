@@ -25,6 +25,11 @@ h1{
     margin-bottom: 5rem;
     font-family:'Rock 3D';
     text-shadow: -1px -1px 0 rgb(255, 218, 185), 1px -1px 0 rgb(255, 218, 185), -1px 1px 0 rgb(255, 218, 185), 1px 1px 0 rgb(255, 218, 185);
+    font-size: 10vh;
+    grid-row-start: 2;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    text-align: center;
 }
 
 h2{
