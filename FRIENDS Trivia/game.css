@@ -61,7 +61,7 @@ body{
 #hud{
     display:flex;
     justify-content:space-between;
-    padding: 1.5rem;
+    padding: 1rem;
     margin-left: 2rem;
     margin-right: 2rem;
 }
@@ -72,7 +72,7 @@ body{
     font-family: "Palette Mosaic";
     color:darkslategrey;
     text-shadow: -1px -1px 0 rgb(255, 218, 185), 1px -1px 0 rgb(255, 218, 185), -1px 1px 0 rgb(255, 218, 185), 1px 1px 0 rgb(255, 218, 185);
-    margin-top:5rem;
+    margin-top:1rem;
 }
 
 
@@ -82,7 +82,6 @@ body{
     font-size: 2.5rem;
     color:darkslategrey;
     text-shadow: -1px -1px 0 rgb(255, 218, 185), 1px -1px 0 rgb(255, 218, 185), -1px 1px 0 rgb(255, 218, 185), 1px 1px 0 rgb(255, 218, 185);
-
 }
 
 #progressBar{
